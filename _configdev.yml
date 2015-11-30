@@ -1,6 +1,6 @@
 # then add this to the url as well "/repository-name"
 url: http://localhost:4000
-disqus:
+disqus:adobebrick
 disquscommentcount: 
 google_analytics: 
 google_search:
