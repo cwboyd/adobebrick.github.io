@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello, World!
-published: false
+published: true
 date: 2016-01-26
 categories: [blogging]
 tags: [blogging]
