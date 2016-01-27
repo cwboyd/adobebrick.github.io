@@ -4,4 +4,7 @@
  published: true
  series: "Intro to Series"	
  ---
+ 
+  {% include series.html %}
+  
  This is the first test.
