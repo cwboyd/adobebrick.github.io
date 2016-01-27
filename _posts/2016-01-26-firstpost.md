@@ -13,10 +13,10 @@ Ideally, we’ll have something new up on a weekly basis.  The goal is for new c
 
 Thanks again for checking us out.  We’re looking forward to seeing you back next week!  
 
-[Twitter:](http://twitter.com/AdobeBrick)
+[Follow us on Twitter](http://twitter.com/AdobeBrick)
 
-[BrickLink:]( http://www.bricklink.com/store.asp?p=AdobeBrick)
+[Check out our store on BrickLink]( http://www.bricklink.com/store.asp?p=AdobeBrick)
 
-[Facebook:]( https://www.facebook.com/people/Adobe-Brick/100010734844686)
+[Friend us on Facebook]( https://www.facebook.com/people/Adobe-Brick/100010734844686)
 
-[Etsy:](https://www.etsy.com/shop/Anellas)
+[Find things we made on Etsy](https://www.etsy.com/shop/Anellas)
