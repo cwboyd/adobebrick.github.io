@@ -31,6 +31,6 @@ Like in the previous technique, you’ll need to offset your bricks by one stud 
 
 <a href="http://s63.photobucket.com/user/anellas/media/20160202_125332.jpg.html" target="_blank"><img src="http://i63.photobucket.com/albums/h144/anellas/20160202_125332.jpg" border="0" alt=" photo 20160202_125332.jpg"/></a>
 
-Thanks for checking out this week’s post!  Since next week is Valentine’s, our builds will have a Valentine theme.  And if you’re looking for bricks so you can make your own walls, be sure to check us out on [BrickLink]( http://www.bricklink.com/store.asp?p=AdobeBrick)
+Thanks for checking out this week’s post!  Since next week is Valentine’s, our builds will have a Valentine theme.  And if you’re looking for bricks so you can make your own walls, be sure to check us out on [BrickLink]( http://www.bricklink.com/store.asp?p=AdobeBrick).
 
 See you next week!
