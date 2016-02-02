@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Build Rounded Walls
-published: false
+published: true
 date: 2016-02-02
 categories: [building]
 tags: [building, tower, circular wall]
