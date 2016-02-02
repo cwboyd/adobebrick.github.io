@@ -9,7 +9,7 @@ tags: [building, tower, circular wall]
 
 In this week’s post, we’ll look at two ways to build rounded walls with Legos.  Rounded walls can give your build a very polished look, and it can add the perfect touch to your scene.  Plus it’s unexpected: many people don’t think of curves when they think of Legos.  But it’s not that hard to do, as you’ll soon see.
 
-#  = 	Bricks & Cylinders
+# Bricks & Cylinders
 
 The first technique we’ll look at uses 1 x 2 bricks and 1 x 1 cylinders.  First, you want to connect three of the 1 x 2 bricks, one on top of the other, offset by one stud, as seen below.
 
@@ -21,7 +21,7 @@ After you’ve connected your three 1 x 2 bricks, place a 1 x 1 cylinder on the 
 
 This technique is great for building towers on castles, wells, silos, or wherever you want a rounded structure.  You can make the diameter larger if you want, but we’re using the smaller one to demonstrate the flexibility of this method.
 
-#  = 	Bricks Only
+# Bricks Only
 
 If you don’t have any of the 1 x 1 cylinders or cones or you want a wall with a larger diameter, you can just use 1 x 2 bricks.  You’ll need a lot more bricks and you won’t have as tight of a curve to your wall.  Here’s an example of a circular wall built using only 1 x 2 bricks.  
 
@@ -31,6 +31,6 @@ Like in the previous technique, you’ll need to offset your bricks by one stud 
 
 <a href="http://s63.photobucket.com/user/anellas/media/20160202_125332.jpg.html" target="_blank"><img src="http://i63.photobucket.com/albums/h144/anellas/20160202_125332.jpg" border="0" alt=" photo 20160202_125332.jpg"/></a>
 
-Thanks for checking out this week’s post!  Since next week is Valentine’s, our builds will have a Valentine theme.  And if you’re looking for bricks so you can make your own walls, be sure to check us out on [BrickLink:]( http://www.bricklink.com/store.asp?p=AdobeBrick).  
+Thanks for checking out this week’s post!  Since next week is Valentine’s, our builds will have a Valentine theme.  And if you’re looking for bricks so you can make your own walls, be sure to check us out on [BrickLink]( http://www.bricklink.com/store.asp?p=AdobeBrick)
 
 See you next week!
