@@ -41,7 +41,7 @@ The rose we built above is taken from a set of Lego instructions, which we modif
 If you’d like to see other examples of Lego flowers, check us out on [Pinterest]( https://www.pinterest.com/adobebrick/), and keep up to date on what we’re building on [Instagram]( https://www.instagram.com/adobe_brick/).
 
 
-Thanks again for stopping by!  Drop us a line and let us know what you think.   We’re also on [Facebook] ( https://www.facebook.com/people/Adobe-Brick/100010734844686) and [Twitter]( https://twitter.com/AdobeBrick)  too.  If you’re looking for bricks, be sure to stop by our [BrickLink:]( http://www.bricklink.com/store.asp?p=AdobeBrick) store.
+Thanks again for stopping by!  Drop us a line and let us know what you think.   We’re also on [Facebook] ( https://www.facebook.com/people/Adobe-Brick/100010734844686) and [Twitter]( https://twitter.com/AdobeBrick)  too.  If you’re looking for bricks, be sure to stop by our [BrickLink]( http://www.bricklink.com/store.asp?p=AdobeBrick) store.
 
 See you next week!
 
