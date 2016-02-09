@@ -19,12 +19,12 @@ When people think about Valentine’s Day, one of the first things they think of
 
 For this one, we used the following bricks:
 
--12 2 x 2 inverted slope bricks
--10 2 x 2 slope bricks
--9 2 x 2 bricks
--8 2 x 4 bricks
--6 2 x 3 bricks
--2 2 x 2 tiles
+*12 2 x 2 inverted slope bricks
+*10 2 x 2 slope bricks
+*9 2 x 2 bricks
+*8 2 x 4 bricks
+*6 2 x 3 bricks
+*2 2 x 2 tiles
 
 <a href="http://s63.photobucket.com/user/anellas/media/20160209_113635.jpg.html" target="_blank"><img src="http://i63.photobucket.com/albums/h144/anellas/20160209_113635.jpg" border="0" alt=" photo 20160209_113635.jpg"/></a>
 
