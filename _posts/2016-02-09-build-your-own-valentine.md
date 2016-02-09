@@ -23,6 +23,7 @@ For this one, we used the following bricks:
 *10 2 x 2 slope bricks
 *9 2 x 2 bricks
 *8 2 x 4 bricks
+*
 *6 2 x 3 bricks
 *2 2 x 2 tiles
 
