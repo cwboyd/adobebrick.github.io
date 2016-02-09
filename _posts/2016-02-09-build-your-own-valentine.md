@@ -7,7 +7,7 @@ categories: [building, valentine]
 tags: [building, valentine, heart, flower]
 ---
 
-Welcome back to Adobe Brick!  Since this week is Valentine’s Day week, we’re building things in that theme: hearts and flowers.  Come on in and see what we’re building this week!
+Welcome back to Adobe Brick!  Since this week is Valentine’s Day week, we’re building things in that theme: hearts and flowers.  Come on in and check it out!
 
 <a href="http://s63.photobucket.com/user/anellas/media/20160209_112808.jpg.html" target="_blank"><img src="http://i63.photobucket.com/albums/h144/anellas/20160209_112808.jpg" border="0" alt="Love is in the air! photo 20160209_112808.jpg"/></a>
 
