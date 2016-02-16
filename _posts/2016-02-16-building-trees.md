@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building Trees, Roots and Branches
+title: Building Trees
 published: true
 date: 2016-02-16
 categories: [building, trees, MOC]
