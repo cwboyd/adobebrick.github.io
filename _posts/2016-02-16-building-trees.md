@@ -7,7 +7,7 @@ categories: [building, trees, MOC]
 tags: [building, trees, roots, branches, bark, MOC]
 ---
 
-This week, we’re going to look at building trees.  Be it a solitary tree in a city scene or one of many trees in a forest, trees can really make your MOC stand out and add an extra dimension to your build.  In this post, we’ll look at the basics of building trees.  Next week, we’ll get more specific.  Click on the link below, have a look at the pictures, and see if something inspires you.
+This week, we’re going to look at building trees.  Be it a solitary tree in a city scene or one of many trees in a forest, trees can really make your MOC stand out and add an extra dimension to your build.  In this post, we’ll look at the basics of building trees.  Click on the link below, have a look at the pictures, and see if something inspires you.
 
 <a href="http://s63.photobucket.com/user/anellas/media/20160213_121101.jpg.html" target="_blank"><img src="http://i63.photobucket.com/albums/h144/anellas/20160213_121101.jpg" border="0" alt="Trees! photo 20160213_121101.jpg"/></a>
 
